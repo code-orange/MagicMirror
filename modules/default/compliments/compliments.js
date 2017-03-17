@@ -20,7 +20,7 @@ Module.register("compliments",{
 			afternoon: [
 				"Hello, beauty!",
 				"You look sexy!",
-				"Looking good today!"
+				"Bitch <3 Philip"
 			],
 			evening: [
 				"Wow, you look hot!",
